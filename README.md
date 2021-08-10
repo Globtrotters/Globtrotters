@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- Thea() {https://github.com/Theadejong}
+- [Thea](github.com/Theadejong)
 - ...
