@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- one
+- Thea() {https://github.com/Theadejong}
 - ...
