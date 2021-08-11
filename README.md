@@ -10,4 +10,3 @@
 
 ### Students
 - [Thea](github.com/Theadejong)
-- ...
