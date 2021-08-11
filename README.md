@@ -9,6 +9,7 @@
 - Yanis
 
 ### Students
+- [Thea](github.com/Theadejong)
 - [Ana Martins](github.com/aafmartins)
 - [Osvaldo](https://github.com/OsvaldoPicazo)
 - [Flavian Alber](https://github.com/Hribu)
